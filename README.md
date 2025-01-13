@@ -34,7 +34,7 @@ I'm a **computer Science and Engineering Student** with a passion for building a
 ## 💼 Projects
 
 ### 1. [Job Application Tracker](https://github.com/PrafullGosavi/Job_ApplicationTracker)
-Track and manage your job applications with ease. Built with **Django** and **PostgreSQL**. You can apply, track progress, and even schedule interviews!
+Track and manage your job applications with ease. Built with **Django**. You can apply, track progress, and even schedule interviews!
 
 ### 2. [ATM Bank Management System](https://github.com/PrafullGosavi/ATM_BankManagmentSystem)
 A simple **ATM system** that allows users to perform operations like **deposit**, **withdraw**, and **balance check**. Built using **Python** and **MySQL**.
@@ -45,15 +45,15 @@ simple coffee shop web interface built with Python Django, HTML, CSS, and Bootst
 ## 📫 Get In Touch
 
 - 📧 Email: [prafullgosavi2001@gmail.com](prafullgosavi2001@gmail.com)
-- 🌐 Website: [www.johndoe.com](https://www.johndoe.com)
-- 💼 LinkedIn: [John Doe LinkedIn](https://www.linkedin.com/in/johndoe/)
-- 🐦 Twitter: [@johndoe](https://twitter.com/johndoe)
+- 🌐 LeetCode: [https://leetcode.com/u/prafullgosavi/](https://leetcode.com/u/prafullgosavi/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/prafull-gosavi-234013211](https://www.linkedin.com/in/prafull-gosavi-234013211)
+- 🐦 Twitter: [https://x.com/its__Prafull?t=r7se919P1Gk3EF-AcVUZDQ&s=09](https://x.com/its__Prafull?t=r7se919P1Gk3EF-AcVUZDQ&s=09)
 
 ## ⚡ Fun Facts
 
 - 💡 I love solving **algorithms** and **competitive programming** challenges!
-- 🌱 Always learning something new in tech, currently focusing on **Machine Learning**.
-- 🎮 A huge fan of gaming and stream **live coding** on Twitch.
+- 🌱 Always learning something new in tech.
+
 
 ---
 
