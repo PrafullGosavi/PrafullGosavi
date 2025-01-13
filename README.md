@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **computer Science and Engineering Student** with a passion for building applications using **Python** and **Django**. I enjoy tackling complex problems, learning new technologies. Currently, I'm exploring **RESTapi** and **AWS**.
+I'm a **B.Tech CSE Graduated Aspiring Software Engineer** with a passion for building applications using **Python** and **Django**. I enjoy tackling complex problems, learning new technologies. Currently, I'm exploring **RESTapi** and **AWS**.
 
 ## 🛠️ Technologies & Tools
 
