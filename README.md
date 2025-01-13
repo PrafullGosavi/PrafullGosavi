@@ -31,17 +31,6 @@ I'm a **computer Science and Engineering Student** with a passion for building a
 - **Data Analysis**
 - **Databases** (MySQL, SQLite)
 
-## 💼 Projects
-
-### 1. [Job Application Tracker](https://github.com/PrafullGosavi/Job_ApplicationTracker)
-Track and manage your job applications with ease. Built with **Django**. You can apply, track progress, and even schedule interviews!
-
-### 2. [ATM Bank Management System](https://github.com/PrafullGosavi/ATM_BankManagmentSystem)
-A simple **ATM system** that allows users to perform operations like **deposit**, **withdraw**, and **balance check**. Built using **Python** and **MySQL**.
-
-### 3. [Coffee Shop Web App](https://github.com/PrafullGosavi/Coffee_Shop_webApp)
-simple coffee shop web interface built with Python Django, HTML, CSS, and Bootstrap. Supports an inventory of 20+ coffee products and features an intuitive and user-friendly interface.. Built with **Django**.
-
 ## 📫 Get In Touch
 
 - 📧 Email: [prafullgosavi2001@gmail.com](prafullgosavi2001@gmail.com)
