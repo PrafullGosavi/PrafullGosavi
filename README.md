@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer** with a passion for building web applications using **Python** and **Django**. I enjoy tackling complex problems, learning new technologies, and contributing to open-source projects. Currently, I'm exploring **Machine Learning** and **Cloud Technologies**.
+I'm a **computer Science and Engineering Student** with a passion for building applications using **Python** and **Django**. I enjoy tackling complex problems, learning new technologies. Currently, I'm exploring **RESTapi** and **AWS**.
 
 ## 🛠️ Technologies & Tools
 
