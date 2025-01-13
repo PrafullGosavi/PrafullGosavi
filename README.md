@@ -23,8 +23,8 @@ I'm a **computer Science and Engineering Student** with a passion for building a
 ### **Libraries & Skills**:
 - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)
-- **Python Development**: Development using Python for web, automation, and scripting.
-- **Data Structures & Algorithms**: Strong foundation in algorithms, data structures like arrays, linked lists, trees, and graphs.
+- **Python Development**: Development using Python for web, Data Analysis.
+- **Data Structures & Algorithms**: Strong foundation in algorithms, data structures.
 - **ORM** (Object Relational Mapping)
 - **MVT** (Model-View-Template) Architecture
 - **API Development**
@@ -33,18 +33,18 @@ I'm a **computer Science and Engineering Student** with a passion for building a
 
 ## 💼 Projects
 
-### 1. [Job Application Tracker](https://github.com/johndoe/job-application-tracker)
+### 1. [Job Application Tracker](https://github.com/PrafullGosavi/Job_ApplicationTracker)
 Track and manage your job applications with ease. Built with **Django** and **PostgreSQL**. You can apply, track progress, and even schedule interviews!
 
-### 2. [ATM Bank Management System](https://github.com/johndoe/atm-bank-management)
+### 2. [ATM Bank Management System](https://github.com/PrafullGosavi/ATM_BankManagmentSystem)
 A simple **ATM system** that allows users to perform operations like **deposit**, **withdraw**, and **balance check**. Built using **Python** and **MySQL**.
 
-### 3. [E-Commerce Web App](https://github.com/johndoe/e-commerce)
-A fully functional **e-commerce** website where users can browse products, add them to the cart, and proceed to checkout. Built with **Django**.
+### 3. [Coffee Shop Web App](https://github.com/PrafullGosavi/Coffee_Shop_webApp)
+simple coffee shop web interface built with Python Django, HTML, CSS, and Bootstrap. Supports an inventory of 20+ coffee products and features an intuitive and user-friendly interface.. Built with **Django**.
 
 ## 📫 Get In Touch
 
-- 📧 Email: [email@example.com](mailto:email@example.com)
+- 📧 Email: [prafullgosavi2001@gmail.com](prafullgosavi2001@gmail.com)
 - 🌐 Website: [www.johndoe.com](https://www.johndoe.com)
 - 💼 LinkedIn: [John Doe LinkedIn](https://www.linkedin.com/in/johndoe/)
 - 🐦 Twitter: [@johndoe](https://twitter.com/johndoe)
