@@ -40,7 +40,6 @@ I'm a **computer Science and Engineering Student** with a passion for building a
 
 ## ⚡ Fun Facts
 
-- 💡 I love solving **algorithms** and **competitive programming** challenges!
 - 🌱 Always learning something new in tech.
 
 
